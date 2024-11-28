@@ -1,6 +1,6 @@
 # Be sure to change these!
 base_url = "https://pawroman.github.io/zola-theme-terminimal"
-title = "Zola Terminimal theme"
+title = "Shibe Drill | Official Website"
 
 # Sass compilation is required
 compile_sass = true
@@ -35,7 +35,7 @@ accent_color = "blue"
 background_color = "blue"
 
 # The logo text - defaults to "Terminimal theme"
-logo_text = "Terminimal theme"
+logo_text = "shibedrill.site"
 
 # The logo link - defaults to base_url.
 #logo_home_link = "/take/me/away!"
@@ -60,9 +60,10 @@ menu_items = [
     {name = "tags", url = "$BASE_URL/tags"},
     {name = "archive", url = "$BASE_URL/archive"},
     {name = "about me", url = "$BASE_URL/about"},
+    {name = "contact", url = "$BASE_URL/contact"},
 
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/pawroman/zola-theme-terminimal", newtab = true},
+    {name = "github", url = "https://github.com/shibedrill", newtab = true},
 ]
 
 # Whether to show links to earlier and later (aka. higher/lower) posts
