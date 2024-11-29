@@ -13,6 +13,6 @@ I'm River [she/they/it], a hobbyist systems administrator and programmer. I main
 
 My interests include infrastructure, security, systems software, operating systems, cryptography, and user freedom in hardware, firmware, and software.
 
-Hope you enjoy reading my blog posts! I'll update this page every so often if I find something interesting to ramble about.
+Hope you enjoy reading my blog posts! I'll update this site with new posts every so often if I find something interesting to ramble about.
 
 Feel free to [contact me](@/pages/contact.md) if you want to chat or work on a project together!
