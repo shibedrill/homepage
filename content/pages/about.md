@@ -19,7 +19,7 @@ Feel free to [contact me](@/pages/contact.md) if you want to chat or work on a p
 
 ---
 
-{{ figure(src="favicon.png",
+{{ figure(src="/favicon.png",
           style="width: 25%;",
           position="center",
           caption_position="center",
