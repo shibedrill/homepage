@@ -63,7 +63,7 @@ menu_items = [
     {name = "contact", url = "$BASE_URL/contact"},
 
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/shibedrill", newtab = true},
+    {name = "github", url = "https://github.com/shibedrill/homepage", newtab = true},
 ]
 
 # Whether to show links to earlier and later (aka. higher/lower) posts
