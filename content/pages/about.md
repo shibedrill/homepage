@@ -16,3 +16,12 @@ My interests include infrastructure, security, systems software, operating syste
 Hope you enjoy reading my blog posts! I'll update this site with new posts every so often if I find something interesting to ramble about.
 
 Feel free to [contact me](@/pages/contact.md) if you want to chat or work on a project together!
+
+---
+
+{{ figure(src="favicon.png",
+          style="width: 25%;",
+          position="center",
+          caption_position="center",
+          caption="**Cheesecake**, the harbinger of the end times",
+          caption_style="font-style: italic;") }}
