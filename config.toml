@@ -47,7 +47,7 @@ logo_text = "shibedrill.site"
 
 # Copyright text in HTML format. If specified,
 # entirely replaces default copyright and author.
-#copyright_html = "My custom&nbsp;<b>copyright</b>"
+copyright_html = "© Copyright shibedrill 2024. All posts licensed under CC-BY-NC-SA."
 
 # menu is enabled by adding menu_items (optional)
 menu_items = [
