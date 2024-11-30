@@ -10,6 +10,8 @@ tags = ["linux"]
 
 So I use a shitty ancient laptop. A Dell Latitude E6420 from 2012: i5-2520m CPU, 16gb of RAM, 512gb SSD. Good enough for me. It's slow, it's thick, it's heavy, but it's got a lot of ports, it's sturdy, and it's repairable. I tried to get a newer laptop, one with a faster processor and bigger screen, but it was so thin and flimsy that it crashed if I looked at it wrong or picked it up while it was running. It was entirely plastic and shattered as soon as I dropped my backpack. With the laptop in the *padded laptop compartment*. And somehow, it had a maximum RAM capacity of 12gb- smaller than my shitty Latitude. So I switched back, and I still daily drive this hunk of shit business laptop.
 
+<!-- more -->
+
 I use Linux on all my laptops and mobile machines, and I run EndeavourOS on my laptop right now. Windows is too slow and bloated for my taste, and its drivers for this laptop are kind of broken due to its age. I should also mention that I use my laptop for school, and it's imperative that it boots reliably every single time I pull it out of my backpack. So when I upgraded my kernel from 6.5.9 to 6.6.1, and rebooted to discover that the system would hang before it could even boot the kernel, you can imagine how stressed I was trying to get it working again. Luckily I have a Medicat USB with an Arch ISO on it, so I was able to live boot into Arch, chroot into my installation, and install the linux-lts kernel, which booted without issue. This also gave me the first clue as to what the fuck was happening.
 
 After reinstalling the OS a couple of times as a sanity check (sometimes I break shit by accident) and testing out the linux-zen kernel, I was able to determine the following:
